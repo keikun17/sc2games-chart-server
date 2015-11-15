@@ -1,10 +1,8 @@
 source 'https://rubygems.org'
 
 gem 'sinatra'
+gem 'sinatra-json'
 
 gem 'sprockets'
 gem 'haml'
 gem 'json'
-gem 'sass'
-gem 'sprockets-sass'
-gem 'sinatra-asset-pipeline'
